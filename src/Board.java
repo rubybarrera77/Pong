@@ -1,3 +1,4 @@
+//board class is where the graphics are, paints the paddle, game, and ball
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
